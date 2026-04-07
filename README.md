@@ -45,7 +45,7 @@ src/
 ├── ui/             # React components and dashboard logic
 └── util/           # Password generator and strength validator
 🚦 Getting Started
-Clone the repo: git clone https://github.com/username/password-vault.git
+Clone the repo: git clone https://github.com/gargi42828/password-vault.git
 
 Install dependencies: npm install
 
